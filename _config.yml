@@ -51,7 +51,8 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
+# Tas: removed
+#theme: minima
 
 plugins:
  - jekyll-feed
