@@ -1,5 +1,2 @@
-title: Tasbolat Taunyazov
-logo: /assets/img/tas.jpg
-description: PhD Student at NUS
-google_analytics:
-theme: jekyll-theme-minimal
+markdown: kramdown
+theme: minima
