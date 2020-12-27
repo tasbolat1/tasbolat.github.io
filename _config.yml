@@ -47,12 +47,16 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
- - about.md
+# header_pages:
+#   - _data/navigation.yaml
+ # - _pages/about.md
+ # - _pages/publications.md
 
 # Build settings
 # Tas: removed
 #theme: minima
+include:
+  - _pages
 
 plugins:
  - jekyll-feed
